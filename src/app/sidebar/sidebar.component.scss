@@ -1,0 +1,20 @@
+.mainbar{
+	height: calc(100vh - 25vh);
+	width: 30%;
+	border: 1.3px solid #8080803b;
+	border-radius: 5px;
+	padding: 1em
+}
+p{
+	color: darkgreen;
+    font-size: 15px;
+    font-family: sans-serif
+}
+.textbox{
+	 width: 20%;
+}
+.p-hist{
+	color: cadetblue;
+    text-decoration: underline;
+    font-size: 16px
+}
